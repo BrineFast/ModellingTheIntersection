@@ -1,0 +1,54 @@
+﻿  Main.cpp
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(31,1): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(72,10): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(89,1): warning C4244:  -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(97,1): warning C4305:  +=: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(181,1): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(204,63): error C2065:  TrafficLight: необъявленный идентификатор
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(204,76): error C2059:  синтаксическая ошибка: >
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(199,1): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(207,27): warning C4552:  "*": результат выражения не используется
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(245,28): warning C4244:  =: преобразование "float" в "int", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(313,1): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(315,1): warning C4267:  =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(789,90): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(789,69): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(792,90): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(792,69): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(795,90): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(795,69): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(798,90): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(798,69): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(803,72): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(806,72): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(809,72): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(812,72): warning C4244:  аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(920,6): warning C4286:  InputException: перехвачено базовым классом ("Exception") в строке 917
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1092,89): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1100,94): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1108,89): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1115,94): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1136,120): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1138,123): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1149,121): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1153,123): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:  "void PassengerCar::CheckAheadCarSpeed(std::vector<PassengerCar *,std::allocator<_Ty>>,unknown-type)": невозможно преобразовать аргумент 2 из "std::vector<TrafficLight *,std::allocator<_Ty>>" в "unknown-type"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         with
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         [
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:             _Ty=PassengerCar *
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         ]
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         and
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         [
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:             _Ty=TrafficLight *
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1206,52): error C2664:         ]
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1220,68): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1224,68): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1243,73): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1247,73): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1255,31): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1264,68): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1268,51): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1276,30): warning C4305:  аргумент: усечение из "double" в "float"
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1287,73): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1291,55): warning C4244:  аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\111\source\repos\Modeling_The_Intersection\Modeling the intersection\Main.cpp(1299,31): warning C4305:  аргумент: усечение из "double" в "float"
